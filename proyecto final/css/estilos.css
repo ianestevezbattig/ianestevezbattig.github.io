@@ -1,0 +1,43 @@
+h1{
+    color: rgb(124, 13, 13);
+    font-weight: bold;
+    font-family: 'Cinzel', serif;
+}
+h2{
+    color: rgb(124, 13, 13);
+}
+.menu{
+    margin:0px;
+    border:0px;
+    padding:0px;
+}
+.parrafo{
+    background-color: black;
+}
+.imagen{
+    background-color: black;
+}
+.jache1{
+    background-color: black;
+}
+a{
+    color: silver;
+    font-weight: bold;
+}
+.cuerpo{
+    background-color: black;
+    color: silver;
+    margin-top: 0px;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 0px;
+}
+* {
+    box-sizing: border-box;
+}
+#boton2{
+    display: inline;
+}
+#boton1{
+    display: none;
+}
